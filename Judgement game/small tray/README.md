@@ -11,11 +11,11 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
 
 ### Bottom layer
   1. Proofgrade settings for Medium Cherry
-    * CUT:
-      * Speed: `189`
-      * Power: `FULL`
-      * \# of Passes: `1`
-      * Focus Height: `0.118`
+      * CUT:
+        * Speed: `189`
+        * Power: `FULL`
+        * \# of Passes: `1`
+        * Focus Height: `0.118`
   2. One print:
     1. CUT the magnet holes first
     2. CUT the outline last
@@ -23,16 +23,16 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
 
 ### Mid layer
   1. Proofgrade settings for Medium Walnut
-    * SCORE:
-      * Speed: `125`
-      * Power: `11`
-      * \# of Passes: `1`
-      * Focus Height: `0.118`
-    * CUT:
-      * Speed: `189`
-      * Power: `FULL`
-      * \# of Passes: `1`
-      * Focus Height: `0.118`
+      * SCORE:
+        * Speed: `125`
+        * Power: `11`
+        * \# of Passes: `1`
+        * Focus Height: `0.118`
+      * CUT:
+        * Speed: `189`
+        * Power: `FULL`
+        * \# of Passes: `1`
+        * Focus Height: `0.118`
   2. First print:
     1. SCORE the numbers on the 1x2x3x5 widget
     2. SCORE the numbers on the measuring widgets
@@ -48,11 +48,11 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
 
 ### Top layer
   1. Proofgrade settings for Medium Clear Acrylic
-    * CUT:
-      * Speed: `157`
-      * Power: `FULL`
-      * \# of Passes: `1`
-      * Focus Height: `0.118`
+      * CUT:
+        * Speed: `157`
+        * Power: `FULL`
+        * \# of Passes: `1`
+        * Focus Height: `0.118`
   2. One print:
     1. CUT the magnet holes
     2. CUT the outline
