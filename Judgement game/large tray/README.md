@@ -1,6 +1,6 @@
 # Measuring stick set (large)
 ## Work in Progress
-These files haven’t been printed yet and may need adjustments. Cutting and assembly should follow the same process as my smaller tray.
+These files haven’t been printed yet and may need adjustments. Cutting and assembly should follow the same process as my [smaller tray](../small%20tray/README.md).
 
 ---
 
