@@ -17,8 +17,8 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
         * \# of Passes: `1`
         * Focus Height: `0.118`
   2. One print:
-    1. CUT the magnet holes first
-    2. CUT the outline last
+      1. CUT the magnet holes first
+      2. CUT the outline last
 
 
 ### Mid layer
@@ -34,16 +34,16 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
         * \# of Passes: `1`
         * Focus Height: `0.118`
   2. First print:
-    1. SCORE the numbers on the 1x2x3x5 widget
-    2. SCORE the numbers on the measuring widgets
-    3. CUT the outlines of the measuring widgets
-    4. IGNORE all other layers
+        1. SCORE the numbers on the 1x2x3x5 widget
+        2. SCORE the numbers on the measuring widgets
+        3. CUT the outlines of the measuring widgets
+        4. IGNORE all other layers
   3. Carefully flip over each measuring stick without moving the rest of the sheet.
   4. Second print:
-    1. SCORE the numbers on the measuring widgets (back side)
-    2. CUT the magnet holes
-    3. CUT the outline of the layer
-    4. IGNORE all other layers
+        1. SCORE the numbers on the measuring widgets (back side)
+        2. CUT the magnet holes
+        3. CUT the outline of the layer
+        4. IGNORE all other layers
 
 
 ### Top layer
@@ -54,8 +54,8 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
         * \# of Passes: `1`
         * Focus Height: `0.118`
   2. One print:
-    1. CUT the magnet holes
-    2. CUT the outline
+        1. CUT the magnet holes
+        2. CUT the outline
 
 
 ### Assembly
