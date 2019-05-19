@@ -16,6 +16,8 @@ Each layer is approximately 1/8” thick. Measurements in Illustrator were built
 
 
 ### Notes
+  * Illustrator notes for rectangular measuring sticks
+      1. Corners are rounded to `0.05`
   * Illustrator notes for the 50mm base steppers
       1. Create a circle 50mm in diameter
       2. Duplicate and offset by 1-3 inches
@@ -23,3 +25,4 @@ Each layer is approximately 1/8” thick. Measurements in Illustrator were built
       4. The sharp corners on the outside of the shape are rounded to `0.075`
       5. Internal cutouts are offset by `–0.3`
       6. Internal sharp corners are rounded to `0.65`
+      
