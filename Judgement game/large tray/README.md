@@ -24,5 +24,5 @@ Each layer is approximately 1/8” thick. Measurements in Illustrator were built
       3. Pathfinder/boolean ops to split the overlapping shapes apart
       4. The sharp corners on the outside of the shape are rounded to `0.075`
       5. Internal cutouts are offset by `–0.3`
-      6. Internal sharp corners are rounded to `0.65`
+      6. Internal sharp corners are rounded to `0.065`
       
