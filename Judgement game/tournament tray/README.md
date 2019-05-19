@@ -19,10 +19,10 @@ Cut from two layers of generic 1/8" thick MDF. Holes in the upper layer are at 5
 ### Top layer
   1. 1/8" Birch "Door skin"
     * CUT:
-          * Speed: `180`
-          * Power: `FULL`
-          * \# of Passes: `1`
-          * Focus Height: `0.125`
+        * Speed: `180`
+        * Power: `FULL`
+        * \# of Passes: `1`
+        * Focus Height: `0.125`
   2. One print:
         1. CUT the holes for the models
         2. CUT the magnet holes
