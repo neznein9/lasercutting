@@ -13,10 +13,10 @@ Bottom layer cut from Proofgrade Medium Cherry Hardwood. No kerf offset for the 
             * Lines Per Inch: `340`
             * Focus Height: `0.132`
         * CUT:
-        * Speed: `181`
-        * Power: `FULL`
-        * \# of Passes: `1`
-        * Focus Height: `0.132`
+            * Speed: `181`
+            * Power: `FULL`
+            * \# of Passes: `1`
+            * Focus Height: `0.132`
     2. First print:
         1. ENGRAVE the text first
         2. CUT the magnet holes
