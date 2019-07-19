@@ -2,7 +2,7 @@
 Arrow cut from Proofgrade Medium Cherry Hardwood. Magnet holes inset by `0.003` for kerf.
 
 
-![](bottom%20layer%2000.svg)
+![](IMG_1460.png)
 
 ### Arrow
   1. Proofgrade Medium Cherry Hardwood
