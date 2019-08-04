@@ -7,7 +7,7 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
   * 1 sheet Proofgrade Medium Cherry Hardwood (Finished)
   * 1 sheet Proofgrade Medium Walnut Hardwood (Finished)
   * 1 sheet 1/8” clear acrylic
-  *  [1/8” diameter magnets](https://www.kjmagnetics.com/proddetail.asp?prod=D22-N52)
+  *  [3/16” diameter magnets](https://www.kjmagnetics.com/proddetail.asp?prod=D22-N52)
 
 
 ### Bottom layer
@@ -28,6 +28,12 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
         * Speed: `125`
         * Power: `11`
         * \# of Passes: `1`
+        * Focus Height: `0.118`
+      * ENGRAVE:
+        * Speed: `550`
+         * Power: `40`
+        * \# of Passes: `1`
+        * LPI: `340`
         * Focus Height: `0.118`
       * CUT:
         * Speed: `189`
@@ -60,7 +66,7 @@ This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus 
 
 
 ### Assembly
-  1. Superglue magnets into the holes on each layer ([thinner discs](https://www.kjmagnetics.com/proddetail.asp?prod=D201-N52) can be stacked to get the layer height exact)
+  1. Superglue magnets into the holes on each layer can be stacked to get the layer height exact)
   2. Remove contact paper
 
 
