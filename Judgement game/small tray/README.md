@@ -2,10 +2,10 @@
 This set is intended to be cut from Proofgrade 12x6” sheets of hardwood, plus a top layer of cast acrylic. Each layer is approximately 1/8” thick. Measurements in illustrator were built at exact scale, then offset by `0.0035` for kerf. Magnet holes were inset by `–0.002` for a tight friction fit.
 
 ## V1
-> ![](Mid%20layer.svg)
+![V1](Mid%20layer.svg)
 
 ## V2
-> ![](Mid%20layer%20v2.svg)
+![V2](Mid%20layer%20v2.svg)
 
 ### Materials
   * 1 sheet Proofgrade Medium Cherry Hardwood (Finished)
