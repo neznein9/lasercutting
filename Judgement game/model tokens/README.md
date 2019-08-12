@@ -1,7 +1,7 @@
 # Tokens and markers
 Experiments with a bunch of different small tokens, "base huggers", and markers. Tokens of a specific size (25mm diameter rounds) are kerf-offset by `0.003"` to account for laser thickness.
 
-![](Levels%20+%20Activated.svg)
+![](IMG_1521.jpg)
 
 ---
 
