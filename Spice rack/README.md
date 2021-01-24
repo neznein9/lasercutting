@@ -2,7 +2,7 @@
 This spice rack is made to fit inside my cupboard, to fit [2" jars like these](https://www.amazon.com/Encheng-Airtight-Rubber-Gasket-Kitchen/dp/B07G8TZVPZ/). Source files are exported from Fusion 360. The svg here is NOT corrected for laser kerf!
 
   * Glowforge thread: https://community.glowforge.com/t/spice-rack/77523
-  * Thingiverse:
+  * Thingiverse: https://www.thingiverse.com/thing:4736384
 
 ![](862f91b43af6fd893ce9571d7b926d4dfb6d0a9c.jpeg)
 ![](0fa9ee4cceab1d7b048bc7a37928225004d0b358.jpeg)
